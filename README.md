@@ -12,6 +12,8 @@ Excel – Used to visualize the results from Snowflake. I created pivot tables a
 
 Canva – Used to design a presentation that visually communicates the findings to the CEO in a clear and engaging way.
 
+Google Looker - Used to turn raw data data into interactive dashboards and automated reports, making insights easy to visualize.
+
 # 📊 Key Findings
  - Supersport Live Events is the most Popular channel 
  - Males are the gender that is said to be watching the most TV, which then give us understanding on why Supersport Live Events is the channel that is tjhe most popular.
