@@ -22,4 +22,7 @@ Google Looker - Used to turn raw data data into interactive dashboards and autom
  -  The month of March is the month where people watch the most tv. We can assume that it is caused by the time of year it is January people are coming back from Holidays and schools are opening
  -  Friday and Saturday is the day when the most TV is watched of which makes perfect sense. Friday is the start of the weekend and Saturday people are mostly at home.
 
+# Conclusion
+Males are the ones sustaining the bs=usiness as a high percentage of males are the one watching TV. So for the Bright TV to grow, they have to bring shows that will make Females watch more. 
+
 
